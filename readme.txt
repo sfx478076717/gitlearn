@@ -8,4 +8,5 @@
 要添加到github上的修改。
 这是dev分支的修改。
 我来修改一下dev分支。
-我要比较一下fast foward和no ff的区别
+我要比较一下fast foward和no ff的区别。
+我修改了这个，但是我还没有做完，我想改个bug。
